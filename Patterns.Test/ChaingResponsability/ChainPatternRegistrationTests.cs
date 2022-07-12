@@ -3,10 +3,6 @@ using Patterns.ChainResponsability;
 using Patterns.ChainResponsability.ConcreteHandlers;
 using Patterns.ChainResponsability.Request;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace Patterns.Test.ChaingResponsability
